@@ -1,0 +1,42 @@
+﻿name,ring,quadrant,isNew,description
+Microsoft Excel,Adopt,Platforms,FALSE,
+VBA,Adopt,Languages & Frameworks,FALSE,
+Excel-DNA,Adopt,Tools,FALSE,
+.Net Winforms,Adopt,Languages & Frameworks,FALSE,
+C#,Adopt,Languages & Frameworks,FALSE,
+T-SQL,Adopt,Languages & Frameworks,FALSE,
+Git,Adopt,Tools,FALSE,Source code version control
+Bitbucket,Adopt,Tools,FALSE,Source code version control
+ClusterSeven,Adopt,Tools,FALSE,Document version control
+SQL Server,Adopt,Platforms,FALSE,
+Project Tool,Adopt,Tools,FALSE,Project management
+Continious Build,Adopt,Tools,FALSE,SQL Server source code version control
+Visual Studio 2015,Adopt,Tools,FALSE,
+ATX,Adopt,Platforms,FALSE,
+MS Test,Adopt,Tools,FALSE,
+Beast,Adopt,Platforms,FALSE,
+ReleasePath,Adopt,Platforms,FALSE,
+SQLite,Assess,Platforms,FALSE,
+JIRA,Assess,Tools,FALSE,Project management
+Jenkins,Assess,Tools,FALSE,CI/CD
+.Net WPF,Assess,Languages & Frameworks,FALSE,
+Angular,Assess,Languages & Frameworks,FALSE,
+Tableau,Assess,Platforms,FALSE,
+Algo Platform,Assess,Platforms,FALSE,
+TDD,Assess,Techniques,FALSE,
+Paired Programming,Assess,Techniques,FALSE,
+Testing,Assess,Techniques,FALSE,
+UX,Assess,Techniques,FALSE,
+Developer Experience,Assess,Techniques,FALSE,
+Gitlab,Assess,Tools,FALSE,
+Aladdin API,Assess,Platforms,FALSE,
+Visual Studio Code,Assess,Tools,FALSE,
+Pycharm,Assess,Tools,FALSE,
+Visual Studio 2019,Assess,Tools,FALSE,
+NUnit,Assess,Tools,FALSE,
+No SQL ,Assess,Platforms,FALSE,
+Training Resources,Assess,Techniques,FALSE,
+Cloud,Hold,Platforms,FALSE,
+Python,Trial,Languages & Frameworks,TRUE,
+Flask,Trial,Platforms,TRUE,Python UI web development
+ATP,Trial,Platforms,TRUE,
